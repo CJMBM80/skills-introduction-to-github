@@ -11,10 +11,9 @@ My Name is CJ and I'm just a man living in this big bad world, barking up this T
 
 _Get started using GitHub in less than an hour._
 
-</header>
+I am an ecclectic individual with a lot to share</header>
 
-<!--
-  <<< Author notes: Step 1 >>>
+<!-- <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
   The first step is always the hardest, so pick something easy!
   Link to docs.github.com for further explanations.

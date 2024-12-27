@@ -1,6 +1,6 @@
 CJMBM<header>
 
-<!--
+My Name is CJ and I'm just a man living in this big bad world, barking up this Tree of Life<!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.

@@ -14,7 +14,10 @@ _AS ABOVE, SO BELOW._
 I am an ecclectic individual with a lot to share</header>
 
 <!-- <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
+ 3 phases in life
+1. To learn
+2. To live
+3. To master Choose 3-5 steps for your course.
   The first step is always the hardest, so pick something easy!
   Link to docs.github.com for further explanations.
   Encourage users to open new tabs for steps!

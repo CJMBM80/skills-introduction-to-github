@@ -7,9 +7,9 @@ My Name is CJ and I'm just a man living in this big bad world, barking up this T
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Introduction to GitHub
+# An Intro to my Outro
 
-_Get started using GitHub in less than an hour._
+_AS ABOVE, SO BELOW._
 
 I am an ecclectic individual with a lot to share</header>
 

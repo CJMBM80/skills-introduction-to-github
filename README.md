@@ -13,7 +13,7 @@ _AS ABOVE, SO BELOW._
 
 I am an ecclectic individual with a lot to share</header>
 
-<!-- <<< Author notes: Step 1 >>>
+<!-- <<< I believe in three phases in life >>>
  3 phases in life
 1. To learn
 2. To live
